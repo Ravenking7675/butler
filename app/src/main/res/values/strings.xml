@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Butler</string>
+    <string name="home_heading">Manage your tasks \n the best way!</string>
+    <string name="home_subheading">In Butler, your tasks are scheduled by \n location coordinates. Have fun!</string>
+    <string name="login_heading">Glad to have \nyou here!</string>
+</resources>
